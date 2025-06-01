@@ -14,7 +14,7 @@ function Portfolio() {
     {
       title: "Placeholder",
       description: "Placeholder text for description.",
-      image: <img src={readmeGenImg} alt="Placeholder" />,
+      image: <img alt="Placeholder" />,
       link: "live link",
       repo: "repo"
     }, 
@@ -26,7 +26,7 @@ function Portfolio() {
       link: "live link",
       repo: "repo"
     }, 
-    
+
     {
       title: "Placeholder",
       description: "Placeholder text for description.",
